@@ -51,6 +51,8 @@ C:\Users\lorna\source\repos\MvcMovie\bin\roslyn\vbc.rsp
 C:\Users\lorna\source\repos\MvcMovie\bin\roslyn\VBCSCompiler.exe
 C:\Users\lorna\source\repos\MvcMovie\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\lorna\source\repos\MvcMovie\bin\Antlr3.Runtime.dll
+C:\Users\lorna\source\repos\MvcMovie\bin\EntityFramework.dll
+C:\Users\lorna\source\repos\MvcMovie\bin\EntityFramework.SqlServer.dll
 C:\Users\lorna\source\repos\MvcMovie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\lorna\source\repos\MvcMovie\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\lorna\source\repos\MvcMovie\bin\Newtonsoft.Json.dll
@@ -62,6 +64,9 @@ C:\Users\lorna\source\repos\MvcMovie\bin\System.Web.WebPages.Deployment.dll
 C:\Users\lorna\source\repos\MvcMovie\bin\System.Web.WebPages.dll
 C:\Users\lorna\source\repos\MvcMovie\bin\System.Web.WebPages.Razor.dll
 C:\Users\lorna\source\repos\MvcMovie\bin\WebGrease.dll
+C:\Users\lorna\source\repos\MvcMovie\bin\EntityFramework.xml
+C:\Users\lorna\source\repos\MvcMovie\bin\EntityFramework.SqlServer.xml
+C:\Users\lorna\source\repos\MvcMovie\bin\Newtonsoft.Json.xml
 C:\Users\lorna\source\repos\MvcMovie\bin\System.Web.Helpers.xml
 C:\Users\lorna\source\repos\MvcMovie\bin\System.Web.Mvc.xml
 C:\Users\lorna\source\repos\MvcMovie\bin\System.Web.Optimization.xml
@@ -69,7 +74,6 @@ C:\Users\lorna\source\repos\MvcMovie\bin\System.Web.Razor.xml
 C:\Users\lorna\source\repos\MvcMovie\bin\System.Web.WebPages.xml
 C:\Users\lorna\source\repos\MvcMovie\bin\System.Web.WebPages.Deployment.xml
 C:\Users\lorna\source\repos\MvcMovie\bin\System.Web.WebPages.Razor.xml
-C:\Users\lorna\source\repos\MvcMovie\bin\Newtonsoft.Json.xml
 C:\Users\lorna\source\repos\MvcMovie\bin\Antlr3.Runtime.pdb
 C:\Users\lorna\source\repos\MvcMovie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\lorna\source\repos\MvcMovie\obj\Debug\MvcMovie.csproj.CoreCompileInputs.cache
@@ -77,7 +81,6 @@ C:\Users\lorna\source\repos\MvcMovie\obj\Debug\MvcMovie.csproj.CopyComplete
 C:\Users\lorna\source\repos\MvcMovie\obj\Debug\MvcMovie.dll
 C:\Users\lorna\source\repos\MvcMovie\obj\Debug\MvcMovie.pdb
 C:\Users\lorna\source\repos\MvcMovie\obj\Debug\MvcMovie.csprojAssemblyReference.cache
-C:\Users\lorna\source\repos\MvcMovie\bin\EntityFramework.dll
-C:\Users\lorna\source\repos\MvcMovie\bin\EntityFramework.SqlServer.dll
-C:\Users\lorna\source\repos\MvcMovie\bin\EntityFramework.xml
-C:\Users\lorna\source\repos\MvcMovie\bin\EntityFramework.SqlServer.xml
+C:\Users\lorna\source\repos\MvcMovie\obj\Debug\MvcMovie.Migrations.Initial.resources
+C:\Users\lorna\source\repos\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.cache
+C:\Users\lorna\source\repos\MvcMovie\obj\Debug\MvcMovie.Migrations.DataAnnotations.resources
